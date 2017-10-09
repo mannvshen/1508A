@@ -1,0 +1,1 @@
+for(var arr=[1,2,4,3,5,1,5,6,4,3],brr=[],i=arr.length-1;i>0;i--)-1===brr.indexOf(arr[i])&&brr.unshift(arr[i]);console.log(brr);

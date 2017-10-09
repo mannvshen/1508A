@@ -1,0 +1,1 @@
+function revers(r){for(var e=[],n=0;n<r.length;n++)-1===e.indexOf(r[n])&&e.push(r[n]);return e}var arr=[1,2,3,1,4,5,3,5];console.log(revers(arr));
